@@ -9,6 +9,10 @@
 
 npm install
 
+```
+
+```bash
+
 # EL archivo connection.js que se encuentra dentro de la carpeta database,
 # recordar de actualizar a sus datos!
 
